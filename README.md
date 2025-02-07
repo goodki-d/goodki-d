@@ -1,4 +1,4 @@
 **💿 goodki-d**  
-/// https://goodki-d.github.io ///
+/// https://goodki-d.github.io/one ///
 <br/>
 <br/>
